@@ -31,3 +31,28 @@ margin-top: 20px;
 border-radius: 8px;
 box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
+
+.fa-github {
+color: #333;
+}
+
+.fa-envelope {
+color: #d44638;
+}
+
+.fa-line {
+color: #06c755;
+}
+
+#contact a:hover {
+color: #0077ff;
+}
+
+#contact i:hover {
+transform: scale(1.2);
+}
+
+#contact i {
+margin-right: 8px;
+font-size: 20px;
+}
