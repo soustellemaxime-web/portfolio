@@ -32,8 +32,12 @@ border-radius: 8px;
 box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+.fa-globe {
+color: #184ec2;
+}
+
 .fa-github {
-color: #333;
+color: #000000;
 }
 
 .fa-envelope {
@@ -88,4 +92,17 @@ box-shadow: 0 10px 25px rgba(0,0,0,0.3);
 flex-direction: column;
 text-align: center;
 }
+}
+
+#projects a:hover {
+color: #0077ff;
+}
+
+#projects i:hover {
+transform: scale(1.2);
+}
+
+#projects i {
+margin-left: 8px;
+font-size: 20px;
 }
