@@ -119,3 +119,18 @@ justify-content: center;
 gap: 30px;
 flex-wrap: wrap;
 }
+
+nav {
+position: fixed;
+top: 0;
+width: 100%;
+background: #8a5687;
+padding: 15px;
+text-align: center;
+}
+
+nav a {
+color: white;
+margin: 0 15px;
+text-decoration: none;
+}
